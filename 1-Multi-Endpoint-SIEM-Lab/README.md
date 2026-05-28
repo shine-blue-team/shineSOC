@@ -8,7 +8,7 @@ collect the logs from multiple endpoints to monitor in centralized siem lab
 ## Tools & Technologies
 - Splunk Enterprise(kali virtual machine)
 - Windows 11 (endpoint main os-hostname:shinejasonenock)
-- Windows 10 (separate Endpoint-hostname:DESKTOP-OAIVT6V
+- Windows 10 (separate Endpoint-hostname:DESKTOP-OAIVT6V)
   
 
 ## Objectives
